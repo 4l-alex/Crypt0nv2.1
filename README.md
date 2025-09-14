@@ -28,21 +28,23 @@ Crypt0n è un bot Discord avanzato progettato per analisi di sicurezza informati
 2. Installa le dipendenze:
    ```bash
    pip install -r requirements.txt
-
+   
+#TOKEN IMPORTANTI 
 3. Crea un file .env con:
-DISCORD_TOKEN=tuo_token
-VIRUSTOTAL_API_KEY=tua_chiave
-ABUSEIPDB_API_KEY=tua_chiave
-HIBP_API_KEY=tua_chiave
-OTX_API_KEY=tua_chiave
+- DISCORD_TOKEN=tuo_token
+- VIRUSTOTAL_API_KEY=tua_chiave
+- ABUSEIPDB_API_KEY=tua_chiave
+- HIBP_API_KEY=tua_chiave
+- OTX_API_KEY=tua_chiave
 
 Ottieni le chiavi da:
-Discord Developer Portal
-VirusTotal
-AbuseIPDB
-HaveIBeenPwned
-AlienVault OTX
+- Discord Developer Portal
+- VirusTotal
+- AbuseIPDB
+- HaveIBeenPwned
+- AlienVault OTX
 
+#AVVIO
 4. Avvia il bot.
   ```bash
   python bot.py
