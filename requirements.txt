@@ -1,0 +1,14 @@
+discord.py
+python-dotenv
+aiohttp
+requests
+python-whois
+dnspython
+cryptography
+Pillow
+pyexiftool
+aiofiles
+scapy
+feedparser
+validators
+googletrans
